@@ -1,0 +1,31 @@
+http://localhost/xampp/aulavirtualnew/inscripcion.php
+
+http://localhost/xampp/aulavirtualnew/test/inscripcion-paso1.php#
+
+
+
+http://www.jose-aguilar.com/blog/validar-formulario-con-jquery-validate-procesar-con-ajax/
+https://jqueryvalidation.org/
+https://jqueryvalidation.org/files/demo/
+https://jqueryvalidation.org/documentation/
+http://bootstrap-live-customizer.com/
+
+http://www.educacionit.com/inscripcion?toc=curso-de-programacion-en-android
+
+http://freuba.com/aulavirtual2/inscripcion.php
+http://www.bmediastudio.com/
+
+
+Usuario MyDomain
+Usuario        jlbmarket
+Psw         Kaproto-2013
+
+
+db aula virtual
+avirtual2016
+bmedia
+kaproto2016
+
+freuba
+
+
